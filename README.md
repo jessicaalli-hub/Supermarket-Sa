@@ -5,4 +5,5 @@ This dashboard enables informed decision-making on product inventory, marketing 
 <img width="1823" height="851" alt="Screenshot 2025-11-29 143009" src="https://github.com/user-attachments/assets/65cad9aa-fb11-4466-8e49-e114b378cb62" />
 
 Dataset-(CSV/Excel format)
+
 Excel(Pivot Tables)-For Analysis
